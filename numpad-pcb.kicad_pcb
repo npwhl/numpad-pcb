@@ -5798,7 +5798,7 @@
 		(property "Reference" "R4"
 			(at 0 1.65 0)
 			(layer "B.SilkS")
-			(uuid "71b1db21-fa50-4bd8-9538-2731d742f265")
+			(uuid "03562b1a-8773-4f72-b3fe-6cbd5efc9dff")
 			(effects
 				(font
 					(size 1 1)
@@ -5810,7 +5810,7 @@
 		(property "Value" "10k"
 			(at 0 -1.65 0)
 			(layer "B.Fab")
-			(uuid "f8d82003-9b1f-4fa9-99d0-309d87816fd5")
+			(uuid "e0276639-38c2-4c35-94dd-14ccc6f278a2")
 			(effects
 				(font
 					(size 1 1)
@@ -5823,7 +5823,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4808b216-88d4-4414-8052-e114f2c58745")
+			(uuid "d441adc4-70f6-4a00-813c-274105fc5330")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5836,7 +5836,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "302b5cd2-0c07-47e2-9662-fcf3d266908d")
+			(uuid "44bd74f0-67a1-4cce-ae58-d4aef4703012")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11917,7 +11917,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
-			(at 0 1.68 90)
+			(at 2.925 0.0875 90)
 			(layer "B.SilkS")
 			(uuid "f03c4758-70bb-424b-95e5-2fb648ea3c67")
 			(effects
@@ -12378,6 +12378,17 @@
 			(uuid "7c2485da-49d4-454f-a66a-9193325ea522")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Type-C.pretty/HRO  TYPE-C-31-M-12.step"
+			(offset
+				(xyz -4.45 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
@@ -15268,7 +15279,7 @@
 		(property "Reference" "C5"
 			(at 0 1.68 0)
 			(layer "B.SilkS")
-			(uuid "67c54b72-0b07-4d5d-85d3-c3ee6d687e88")
+			(uuid "0034b901-37f6-4649-b1fc-dc4081889104")
 			(effects
 				(font
 					(size 1 1)
@@ -15280,7 +15291,7 @@
 		(property "Value" "10uF"
 			(at 51.883632 -19.9275 0)
 			(layer "B.Fab")
-			(uuid "88a8d074-25c1-4fcc-aabc-f1e260958457")
+			(uuid "ef1bdb28-f834-43fc-85b0-2103b008479e")
 			(effects
 				(font
 					(size 1 1)
@@ -15293,7 +15304,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9de79a54-aec8-4cc3-ab78-dda3869c901d")
+			(uuid "6373fcf6-3d1a-42fa-8acc-13d1957ac5ef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15306,7 +15317,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "29bded2f-16e3-4d63-98c1-1cbeeab142c0")
+			(uuid "ea7f6a27-1467-4df2-821f-7047d03e2120")
 			(effects
 				(font
 					(size 1.27 1.27)
