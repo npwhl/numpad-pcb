@@ -1,17 +1,17 @@
 # 6x4 USB-C Numpad PCB
-A PCB for a numpad 6x4 numpad with a row for four customizable macros. Uses Alps switch footprints and a USB-C connection. Designed in Kicad.    
+A PCB for a 6x4 numpad with a row for four customizable macros. Uses Alps switch footprints and a USB-C connection. Designed in Kicad.    
 TBA: image here of the 3D model  
 TBA: an image of the final PCB in person! :-)  
 TBA: link to firmware repository   
 
 # The Design
-<img src="SchematicMain.png" alt="Schematic of the MCU" width="640"/>
-   
 _A schematic of the MCU connections._  
-<img src="SchematicMatrix.png" alt="Schematic of the Switches Matrix" width="640"/>
+<img src="SchematicMain.png" alt="Schematic of the MCU" width="640"/>
+
+_A schematic of the matrix of switch connections._    
+<img src="SchematicMatrix.png" alt="Schematic of the Switches Matrix" width="640"/>   
    
-_A schematic of the matrix of switch connections._       
-TBA: multiple images of the PCB in the PCB viewer     
+TBA: multiple images of the PCB in the PCB viewer, make a folder for these images too!    
 
 # How It Was Made
 **Software:** Kicad EDA v9.03  
