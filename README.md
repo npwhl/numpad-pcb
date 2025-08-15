@@ -6,9 +6,11 @@ TBA: link to firmware repository
 
 # The Design
 <img src="SchematicMain.png" alt="Schematic of the MCU" width="640"/>
+   
 _A schematic of the MCU connections._  
 <img src="SchematicMatrix.png" alt="Schematic of the Switches Matrix" width="640"/>
-_A schematic of the matrix of switch connections._     
+   
+_A schematic of the matrix of switch connections._       
 TBA: multiple images of the PCB in the PCB viewer     
 
 # How It Was Made
