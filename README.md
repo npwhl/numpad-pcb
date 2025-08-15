@@ -4,6 +4,11 @@ TBA: image here of the 3D model
 TBA: an image of the final PCB in person! :-)  
 TBA: link to firmware repository   
 
+# The Design
+![Schematic of the MCU](/SchematicMain.png)   
+![Schematic of the Numpad Matrix](/SchematicMatrix.png)   
+TBA: multiple images of the PCB in the PCB viewer     
+
 # How It Was Made
 **Software:** Kicad EDA v9.03  
 **Manufacturer:** TBA  
@@ -13,8 +18,8 @@ table...
 The 3D modeling software Blender has many shortcuts that are only accessable using numpad shortcuts. Although these features are also accessable on Blender's UI, these shortcuts greatly accelerate the modeling process. However, my partner's keyboard is 65% and lacks a numpad. I wanted to design him a numpad that could solve this problem while using the keycaps and Alps switches he currently had. I also wanted to design the numpad with USB-C conectivity and a 4-key macro row for any additional shortcuts.  
   
 To make the numpad, I followed [Masterzen's tutorial](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/) on designing a PCB for a keyboard. This was my first time designing a PCB and using software like Kicad. I initially struggled with laying out the components on the PCB. I learned a lot of new information about why PCB components are laid out in specific ways and how to handle signals with minimal noise. I also learned about the importance of impedance on especially delicate routes such as the USB-C's D+/D- differential pair.  
-talk about the rest...  
-TBA: image of the finished PCB in the PCB viewer  
+talk about the rest...    
+TBA: a WIP image of the PCB in Kicad   
 
 # To Do
 This PCB is still in progress. The next steps are:  
