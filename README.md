@@ -1,17 +1,27 @@
 # 6x4 USB-C Numpad PCB
-A PCB for a 6x4 numpad with a row for four customizable macros. Uses Alps switch footprints and a USB-C connection. Designed in Kicad.    
-TBA: image here of the 3D model  
-TBA: an image of the final PCB in person! :-)  
+A PCB for a 6x4 numpad with a row for four customizable macros. Uses Alps switch footprints and a USB-C connection. Designed in Kicad.  
+TBA: an image of the final PCB in person! :-)   
+<img src="./Images/pcb_vid.gif" alt="Gif of the PCB"/>    
 TBA: link to firmware repository   
 
 # The Design
 _A schematic of the MCU connections._  
-<img src="SchematicMain.png" alt="Schematic of the MCU" width="640"/>
+<img src="./Images/SchematicMain.png" alt="Schematic of the MCU" width="640"/>
 
 _A schematic of the matrix of switch connections._    
-<img src="SchematicMatrix.png" alt="Schematic of the Switches Matrix" width="640"/>   
-   
-TBA: multiple images of the PCB in the PCB viewer, make a folder for these images too!    
+<img src="./Images/SchematicMatrix.png" alt="Schematic of the Switches Matrix" width="640"/>   
+     
+_The PCB as viewed in the 3D viewer._      
+<img src="./Images/pcb_rendered.png" alt="Schematic of the MCU" width="640"/>     
+
+_The PCB as viewed in the PCB editor._      
+<img src="./Images/pcb_fill.png" alt="Schematic of the MCU" width="640"/>     
+
+_The front traces of the PCB._      
+<img src="./Images/pcb_front_no_fill.png" alt="Schematic of the MCU" width="640"/>     
+
+_The back traces of the PCB._      
+<img src="./Images/pcb_back_no_fill.png" alt="Schematic of the MCU" width="640"/>     
 
 # How It Was Made
 **Software:** Kicad EDA v9.03  
